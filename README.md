@@ -11,4 +11,6 @@ Linux, windows, termux, gnuroot debian, andrax and kali nethunter etc..
 # Dependencies
 web-ip requires following programs to run :--
 1. git
-2. Python 
+2. Python
+3. pip
+4. colorama
