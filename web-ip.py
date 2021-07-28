@@ -1,4 +1,4 @@
- import colorama
+import colorama
 from colorama import Fore, Style
 print(Fore.RED + '''   _             _        
       __      __  ___ | |__         (_) _ __  
